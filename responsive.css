@@ -1,0 +1,253 @@
+/* タブレット向けレイアウト */
+@media screen  and (max-width: 1000px) {
+
+
+}
+
+
+/* スマホ向けレイアウト */
+@media all and (max-width: 670px) {
+
+
+
+/*-----------header-------------*/
+
+
+
+.header{
+	height:50px;
+	padding:0px 5%;
+}
+
+
+.header-main{
+	width:90%;
+}
+
+
+.logo{
+	height: 50px;
+}
+
+
+.header-right li{
+	display: none;
+}
+
+
+.icon-bars{
+	color:#fff;
+	margin:3px 8px;
+	display:block;
+	border: 1px solid #fff;
+	}
+
+
+.fa-bars{
+	font-size:40px;
+	padding:2px 5px;
+}
+
+
+
+/*-----------header-------------*/
+/*---------main_visual----------*/
+.main_visual{
+	background-image: url(img/code.png);
+	height:750px;
+	padding:90px 5%;
+}
+
+
+.main_visual h1{
+	font-size:40px;
+}
+
+
+.main_visual p{
+	font-size:18px;
+	color:#fafafa;
+	padding-top:10px;
+}
+
+/*---------main_visual----------*/
+/*---------Portfolio----------*/
+.portfolio{
+	padding:90px 5%;
+}
+
+.btn-1st{
+	display:none;
+}
+
+.btn-2nd{
+	display:none;
+}
+
+.btn-2{
+	display:block;
+	width:300px;
+	height:250px;
+	margin:0 auto;
+}
+
+.webcsuku{
+	padding-bottom:10px;
+}
+
+.webcamp{
+	padding-bottom:10px;
+}
+
+.portfolio-main{
+	width:90%;
+}
+
+
+
+/*---------Portfolio----------*/
+
+/*---------feature----------*/
+.feature{
+	padding:90px 5%;
+}
+
+.feature-main{
+	width:90%;
+}
+
+
+.feature-contents{
+	padding:none;
+	}
+
+.content{
+	padding:0px 0px 10px;
+	float:none;
+	margin:0 auto;
+	}
+
+.content-box{
+	margin:0 auto;
+}
+
+
+.fa-desktop{
+	padding-top:10px;
+}
+
+.fa-cogs{
+	padding-top:10px;
+}
+
+
+
+/*---------profile----------*/
+.profile{
+	padding:90px 5%;
+}
+
+
+.profile-main{
+	width:90%;
+}
+
+.profile-second{
+	width:90%;
+}
+
+
+.profile-contents{
+	width:100%;
+	float:none;
+	}
+
+.content{
+	width:100%;
+}
+
+
+.profile-content{
+	text-align: center;
+	width:100%;
+}
+
+h6{
+	padding-top:20px;
+}
+
+
+
+.skills{
+	padding-top:20px;
+}
+
+
+
+/*---------profile----------*/
+/*---------contact----------*/
+.contact{
+	padding:90px 5%;
+}
+
+
+.contact-top{
+	padding: 0px;
+}
+
+.contact-main{
+	width:90%;
+	}
+
+.contact-second{
+	width:90%;
+	margin:0 auto;
+}
+
+.contact-contents{
+	float:none;
+	width:100%;
+	text-align:center;
+	padding-left:0px;
+}
+
+.contact-contents h5{
+	text-align:center;
+}
+
+.fa-facebook{
+	font-size:50px;
+	padding:0px;
+}
+
+.fa-twitter{
+	font-size:50px;
+	padding:0px 8px;
+}
+
+.fa-instagram{
+	font-size:50px;
+	padding:0px;
+}
+
+
+
+/*---------contact----------*/
+
+/*---------footer----------*/
+.footer{
+	background:#ec715f;
+	width:100%;
+	height:60px;
+	padding:0px 5%;
+}
+
+.footer p{
+	color:#fafafa;
+	text-align: center;
+	display: block;
+	line-height: 60px;
+	font-size:16px;
+}
+
+/*---------footer----------*/
