@@ -54,6 +54,7 @@
 /*---------main_visual----------*/
 .main_visual{
 	background-image: url(img/code.png);
+	background-position: center;
 	height:750px;
 	padding:90px 5%;
 }
