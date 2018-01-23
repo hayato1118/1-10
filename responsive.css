@@ -37,15 +37,16 @@
 
 .icon-bars{
 	color:#fff;
-	margin:3px 8px;
+	margin:7px 8px;
 	display:block;
 	border: 1px solid #fff;
 	}
 
 
 .fa-bars{
-	font-size:40px;
-	padding:2px 5px;
+	font-size:30px;
+	padding:2px 5px ;
+	
 }
 
 
@@ -77,11 +78,9 @@
 	padding:90px 5%;
 }
 
-.btn-1st{
-	display:none;
-}
 
-.btn-2nd{
+
+.image-none{
 	display:none;
 }
 
